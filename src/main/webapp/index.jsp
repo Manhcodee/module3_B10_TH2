@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>JSP - Hello World</title>
+    <title>Simple Dictionary</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <h2>Vietnamese Dictionary</h2>
